@@ -858,6 +858,9 @@ section {
 .about-up{
 	width: 100%;
 }
+.heading::after{
+	display: none;
+}
 }
 
 
