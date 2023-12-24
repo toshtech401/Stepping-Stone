@@ -861,6 +861,12 @@ section {
 .heading::after{
 	display: none;
 }
+.login-form{
+	display: none;
+}
+#login-btn{
+	display: none;
+}
 }
 
 
